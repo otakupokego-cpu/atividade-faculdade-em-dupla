@@ -11,7 +11,10 @@ print(f"A área do quadrado é: {area}")
 base = float(input("Digite o valor da base do retângulo: "))
 altura = float(input("Digite o valor da altura do retângulo: "))
 area = base * altura
-print(f"A área do retângulo é: {area}")
+print(f"A área do retângulkjkjjlko é: {area}")
+
+
+
 
 # Calculando a área de um triângulo
 
